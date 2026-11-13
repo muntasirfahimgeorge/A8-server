@@ -28,9 +28,3 @@ Backend API for StudioSpace, a platform where creators can find and book photogr
 - `POST /bookings` - Create a new booking (protected)
 - `PATCH /bookings/:id` - Cancel or update booking status (protected)
 
-## Running Locally
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/studiospace-server.git](https://github.com/your-username/studiospace-server.git)
-   cd studiospace-server
